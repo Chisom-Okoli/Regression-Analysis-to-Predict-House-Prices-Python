@@ -87,3 +87,8 @@ This project is part of my internship tasks. The objective is to perform **simpl
 | 33.4   | 31.5      |
 | 36.2   | 35.0      |
 
+## Interpretation of Results
+
+The analysis indicates a positive relationship between the average number of rooms and house price. This means that, in general, houses with more rooms tend to have higher prices.
+
+However, the model explains only 37% of the variation in house prices, which suggests that room count alone is not sufficient to accurately predict property value. Other factors such as location, crime rate, proximity to employment centers, and neighborhood characteristics likely play a significant role in determining house prices.
