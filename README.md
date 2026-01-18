@@ -71,7 +71,11 @@ This project is part of my internship tasks. The objective is to perform **simpl
 
 **Regression Plot:**
 
-![Regression Plot](regression_plot.png)
+## Regression Plot
+
+![Simple Linear Regression](https://raw.githubusercontent.com/Chisom-Okoli/Regression-Analysis-to-Predict-House-Prices-Python/main/Simple%20linear%20regression.png)
+
+
 
 **Sample Actual vs Predicted Prices:**
 
